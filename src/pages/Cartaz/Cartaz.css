@@ -1,0 +1,11 @@
+.container-cartaz {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+h1 {
+  color: #fff;
+}

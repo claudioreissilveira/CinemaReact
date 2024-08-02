@@ -1,0 +1,904 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "titulo": "Divertidamente 1",
+            "ano": 2015,
+            "genero": "Infantil",
+            "diretor": "Pete Docter",
+            "classificacao": "Livre",
+            "duracao": 95,
+            "capa": "https://www.campusvilla.com.br/wp-content/uploads/2016/03/divertidamente.png"
+        },
+        {
+            "id": 2,
+            "titulo": "Divertidamente 2",
+            "ano": 2024,
+            "genero": "Infantil",
+            "diretor": "Pete Docter",
+            "classificacao": "Livre",
+            "duracao": 96,
+            "capa": "https://ingresso-a.akamaihd.net/prd/img/movie/divertida-mente-2/61ac248d-e3e6-4e33-9515-8ce0621a32fa.webp"
+        },
+        {
+            "id": 3,
+            "titulo": "Meu Malvado Favorito",
+            "ano": 2010,
+            "genero": "Infantil",
+            "diretor": "Chris Renaud",
+            "classificacao": "Livre",
+            "duracao": 95,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/87/89/83/20028679.jpg"
+        },
+        {
+            "id": 4,
+            "titulo": "Meu Malvado Favorito 2",
+            "ano": 2013,
+            "genero": "Infantil",
+            "diretor": "Chris Renaud",
+            "classificacao": "Livre",
+            "duracao": 98,
+            "capa": "https://d3alv7ekdacjys.cloudfront.net/Custom/Content/Products/11/02/1102238_meu-malvado-favorito-2-filme-ms_m1_637383521115768157.jpg"
+        },
+        {
+            "id": 5,
+            "titulo": "Meu Malvado Favorito 3",
+            "ano": 2017,
+            "genero": "Infantil",
+            "diretor": "Chris Renaud",
+            "classificacao": "Livre",
+            "duracao": 96,
+            "capa": "https://br.web.img2.acsta.net/pictures/17/03/14/20/37/126690.jpg"
+        },
+        {
+            "id": 6,
+            "titulo": "Meu Malvado Favorito 4",
+            "ano": 2024,
+            "genero": "Infantil",
+            "diretor": "Chris Renaud",
+            "classificacao": "Livre",
+            "duracao": 94,
+            "capa": "https://br.web.img3.acsta.net/img/6c/71/6c71afa89fd8ed8999b3e04d8d794a0e.jpg"
+        },
+        {
+            "id": 7,
+            "titulo": "Velozes e Furiosos 1",
+            "ano": 2001,
+            "genero": "Ação",
+            "diretor": "Rob Cohen",
+            "classificacao": "12 Anos",
+            "duracao": 106,
+            "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/87/23/46/19873389.jpg"
+        },
+        {
+            "id": 8,
+            "titulo": "+ Velozes + Furiosos",
+            "ano": 2003,
+            "genero": "Ação",
+            "diretor": "John Singleton",
+            "classificacao": "14 Anos",
+            "duracao": 107,
+            "capa": "https://m.media-amazon.com/images/S/pv-target-images/ead5f0dd7137897631146c2669b672d1d339c5681954b60fbdb7073ee4d02e14.jpg"
+        },
+        {
+            "id": 9,
+            "titulo": "Velozes e Furiosos: Desafio em Tóquio",
+            "ano": 2006,
+            "genero": "Ação",
+            "diretor": "Justin Lin",
+            "classificacao": "14 Anos",
+            "duracao": 104,
+            "capa": "https://br.web.img2.acsta.net/pictures/210/383/21038387_20130909201408304.jpg"
+        },
+        {
+            "id": 10,
+            "titulo": "Velozes e Furiosos 4",
+            "ano": 2009,
+            "genero": "Ação",
+            "diretor": "Justin Lin",
+            "classificacao": "14 Anos",
+            "duracao": 107,
+            "capa": "https://br.web.img3.acsta.net/pictures/210/445/21044501_2013092621313492.jpg"
+        },
+        {
+            "id": 11,
+            "titulo": "Velozes e Furiosos 5: Operação Rio",
+            "ano": 2011,
+            "genero": "Ação",
+            "diretor": "Justin Lin",
+            "classificacao": "14 Anos",
+            "duracao": 131,
+            "capa": "https://image.tmdb.org/t/p/original/5BKmQMUPOEtDFDCBW8jrUCI9ZbI.jpg"
+        },
+        {
+            "id": 12,
+            "titulo": "Velozes e Furiosos 6",
+            "ano": 2013,
+            "genero": "Ação",
+            "diretor": "Justin Lin",
+            "classificacao": "14 Anos",
+            "duracao": 130,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/92/81/46/20528636.jpg"
+        },
+        {
+            "id": 13,
+            "titulo": "Velozes & Furiosos 7",
+            "ano": 2015,
+            "genero": "Ação",
+            "diretor": "James Wan",
+            "classificacao": "14 Anos",
+            "duracao": 140,
+            "capa": "https://www.pjf.mg.gov.br/noticias/arquivo/1704ClubeProfessorVelozes%20Furiosos_105943.JPEG"
+        },
+        {
+            "id": 14,
+            "titulo": "Velozes e Furiosos 8",
+            "ano": 2017,
+            "genero": "Ação",
+            "diretor": "James Wan",
+            "classificacao": "14 Anos",
+            "duracao": 136,
+            "capa": "https://s2-globo-play.glbimg.com/CDlLaXse3AZ5or1AMrHsqHhxF6Y=/362x536/https://s2-globo-play.glbimg.com/tI1yYBdM8TyyGI3z-k6Q8tW2Ags=/https://s2.glbimg.com/vCn3YTcUxhdc9Ty3qUku6SD-DwQ=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/j/W/EBfvLnRtin7CzZ2D9fwg/1578264-poster.jpg"
+        },
+        {
+            "id": 15,
+            "titulo": "Velozes e Furiosos 9",
+            "ano": 2021,
+            "genero": "Ação",
+            "diretor": "Justin Lin",
+            "classificacao": "14 Anos",
+            "duracao": 146,
+            "capa": "https://br.web.img3.acsta.net/pictures/21/04/14/19/06/3385237.jpg"
+        },
+        {
+            "id": 16,
+            "titulo": "Velozes e Furiosos 10",
+            "ano": 2023,
+            "genero": "Ação",
+            "diretor": "Louis Leterrier",
+            "classificacao": "14 Anos",
+            "duracao": 141,
+            "capa": "https://br.web.img2.acsta.net/pictures/23/05/16/22/53/0156803.jpg"
+        },
+        {
+            "id": 17,
+            "titulo": "Star Wars: Episódio I – A Ameaça Fantasma",
+            "ano": 1999,
+            "genero": "Infantil",
+            "diretor": "George Lucas",
+            "classificacao": "Livre",
+            "duracao": 136,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/3/30/Star_Wars_Epis%C3%B3dio_1_Amea%C3%A7a_Fantasma.jpg"
+        },
+        {
+            "id": 18,
+            "titulo": "Star Wars: Episódio 2 – Ataque dos Clones",
+            "ano": 2002,
+            "genero": "Ação",
+            "diretor": "George Lucas",
+            "classificacao": "14 Anos",
+            "duracao": 142,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/6/63/Star_Wars_The_Clone_Wars.jpg"
+        },
+        {
+            "id": 19,
+            "titulo": "Star Wars: Episódio III – A Vingança dos Sith",
+            "ano": 2005,
+            "genero": "Ação",
+            "diretor": "George Lucas",
+            "classificacao": "10 Anos",
+            "duracao": 140,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/5/58/Star_Wars_Epis%C3%B3dio_III_A_Vingan%C3%A7a_dos_Sith.jpg"
+        },
+        {
+            "id": 20,
+            "titulo": "Star Wars: Episódio IV – Uma Nova Esperança",
+            "ano": 1977,
+            "genero": "Ação",
+            "diretor": "George Lucas",
+            "classificacao": "Livre",
+            "duracao": 121,
+            "capa": "https://m.media-amazon.com/images/I/612h-jwI+EL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 21,
+            "titulo": "Guerra nas Estrelas",
+            "ano": 1980,
+            "genero": "Infantil",
+            "diretor": "George Lucas",
+            "classificacao": "Livre",
+            "duracao": 104,
+            "capa": "https://m.media-amazon.com/images/I/711xW80aSGL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 22,
+            "titulo": "O Retorno de Jedi",
+            "ano": 1983,
+            "genero": "Aventura",
+            "diretor": "George Lucas",
+            "classificacao": "Livre",
+            "duracao": 131,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b2/ReturnOfTheJediPoster1983.jpg/250px-ReturnOfTheJediPoster1983.jpg"
+        },
+        {
+            "id": 23,
+            "titulo": "Star Wars: O Despertar da Força",
+            "ano": 2015,
+            "genero": "Ação",
+            "diretor": "George Lucas",
+            "classificacao": "12 Anos",
+            "duracao": 136,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Starwars_06.jpg/250px-Starwars_06.jpg"
+        },
+        {
+            "id": 24,
+            "titulo": "Star Wars: Os Últimos Jedi",
+            "ano": 2017,
+            "genero": "Ação",
+            "diretor": "George Lucas",
+            "classificacao": "12 Anos",
+            "duracao": 136,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/0/0e/Star_Wars_The_Last_Jedi.png"
+        },
+        {
+            "id": 25,
+            "titulo": "Star Wars: Episódio IX",
+            "ano": 2019,
+            "genero": "Ação",
+            "diretor": "George Lucas",
+            "classificacao": "12 Anos",
+            "duracao": 142,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/0/08/Star_Wars_The_Rise_of_Skywalker.jpg"
+        },
+        {
+            "id": 26,
+            "titulo": "Duna",
+            "ano": 2021,
+            "genero": "Ação",
+            "diretor": "Frank Herbert",
+            "classificacao": "14 Anos",
+            "duracao": 155,
+            "capa": "https://m.media-amazon.com/images/I/81zN7udGRUL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 27,
+            "titulo": "Duna - Parte 2",
+            "ano": 2023,
+            "genero": "Ação",
+            "diretor": "Frank Herbert",
+            "classificacao": "14 Anos",
+            "duracao": 155,
+            "capa": "https://ingresso-a.akamaihd.net/prd/img/movie/duna-parte-2/3971d5d6-702d-40d8-b990-872d4ffe3e32.webp"
+        },
+        {
+            "id": 28,
+            "titulo": "Maxxxine",
+            "ano": 2024,
+            "genero": "Suspense",
+            "diretor": "Ti West",
+            "classificacao": "18 Anos",
+            "duracao": 104,
+            "capa": "https://br.web.img2.acsta.net/img/20/b3/20b38bb5e6d4847f99bc86fb742fed25.jpg"
+        },
+        {
+            "id": 29,
+            "titulo": "To de graça - O filme",
+            "ano": 2024,
+            "genero": "Comedia",
+            "diretor": "César Rodrigues",
+            "classificacao": "12 Anos",
+            "duracao": 95,
+            "capa": "https://d1mcpktd27z5n0.cloudfront.net/cdn/wbproducoes/site/2019/06/25133009/CARTAZ-RGB-TO-DE-GRA%C3%87A.jpg"
+        },
+        {
+            "id": 30,
+            "titulo": "Harry Potter e a Pedra Filosofal",
+            "ano": 2001,
+            "genero": "Fantasia",
+            "diretor": "Chris Columbus",
+            "classificacao": "Livre",
+            "duracao": 152,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/95/59/60/20417256.jpg"
+        },
+        {
+            "id": 31,
+            "titulo": "Harry Potter e a Câmara Secreta",
+            "ano": 2002,
+            "genero": "Fantasia",
+            "diretor": "Chris Columbus",
+            "classificacao": "Livre",
+            "duracao": 161,
+            "capa": "https://www.papodecinema.com.br/wp-content/uploads/2011/12/20181109-harry-potter-e-a-camara-secreta-950x644.jpg"
+        },
+        {
+            "id": 32,
+            "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+            "ano": 2004,
+            "genero": "Fantasia",
+            "diretor": "Chris Columbus",
+            "classificacao": "Livre",
+            "duracao": 147,
+            "capa": "https://likemagazine.com.br/midias/2024/06/42788c1f50b0ad42c41290e44c1c95db.jpg"
+        },
+        {
+            "id": 33,
+            "titulo": "Harry Potter e o Cálice de Fogo",
+            "ano": 2005,
+            "genero": "Fantasia",
+            "diretor": "Chris Columbus",
+            "classificacao": "10 Anos",
+            "duracao": 157,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/93/87/95/20282862.jpg"
+        },
+        {
+            "id": 34,
+            "titulo": "Harry Potter e a Ordem da Fênix",
+            "ano": 2007,
+            "genero": "Fantasia",
+            "diretor": "Chris Columbus",
+            "classificacao": "Livre",
+            "duracao": 138,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/90/67/58/20107766.jpg"
+        },
+        {
+            "id": 35,
+            "titulo": "Harry Potter e o Enigma do Príncipe",
+            "ano": 2009,
+            "genero": "Fantasia",
+            "diretor": "Chris Columbus",
+            "classificacao": "12 Anos",
+            "duracao": 153,
+            "capa": "https://assets.cinebelasartes.com.br/wp-content/uploads/2022/04/enigma-do-principe-min-scaled.jpg"
+        },
+        {
+            "id": 36,
+            "titulo": "Carros",
+            "ano": 2006,
+            "genero": "Infantil",
+            "diretor": "John Lasseter",
+            "classificacao": "Livre",
+            "duracao": 117,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/9/9b/Carros_p%C3%B4ster.jpg"
+        },
+        {
+            "id": 37,
+            "titulo": "Carros 2",
+            "ano": 2011,
+            "genero": "Infantil",
+            "diretor": "John Lasseter",
+            "classificacao": "Livre",
+            "duracao": 106,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/7/7e/Carros_2_P%C3%B4ster.jpg"
+        },
+        {
+            "id": 38,
+            "titulo": "Carros 3",
+            "ano": 2017,
+            "genero": "Infantil",
+            "diretor": "John Lasseter",
+            "classificacao": "Livre",
+            "duracao": 109,
+            "capa": "https://br.web.img2.acsta.net/pictures/17/03/10/15/25/441162.jpg"
+        },
+        {
+            "id": 39,
+            "titulo": "Toy Story",
+            "ano": 1995,
+            "genero": "Infantil",
+            "diretor": "John Lasseter",
+            "classificacao": "Livre",
+            "duracao": 77,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/91/05/36/20127436.jpg"
+        },
+        {
+            "id": 40,
+            "titulo": "Toy Story 2",
+            "ano": 1999,
+            "genero": "Infantil",
+            "diretor": "John Lasseter",
+            "classificacao": "Livre",
+            "duracao": 92,
+            "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/91/05/37/20127443.jpg"
+        },
+        {
+            "id": 41,
+            "titulo": "Toy Story 3",
+            "ano": 2010,
+            "genero": "Infantil",
+            "diretor": "John Lasseter",
+            "classificacao": "Livre",
+            "duracao": 103,
+            "capa": "https://cdn.kobo.com/book-images/b960b0b3-e207-4613-89b7-e0b860796f48/1200/1200/False/toy-story-3-storybook.jpg"
+        },
+        {
+            "id": 42,
+            "titulo": "Toy Story 4",
+            "ano": 2019,
+            "genero": "Infantil",
+            "diretor": "John Lasseter",
+            "classificacao": "Livre",
+            "duracao": 100,
+            "capa": "https://br.web.img3.acsta.net/pictures/19/03/27/21/03/0464387.jpg"
+        },
+        {
+            "id": 43,
+            "titulo": "Homem-Aranha",
+            "ano": 2002,
+            "genero": "Ação",
+            "diretor": "Sam Raimi",
+            "classificacao": "Livre",
+            "duracao": 100,
+            "capa": "https://www.sonypictures.com.br/sites/brazil/files/2022-03/HA1_KEY%20ART.JPG"
+        },
+        {
+            "id": 44,
+            "titulo": "Homem-Aranha 2",
+            "ano": 2004,
+            "genero": "Ação",
+            "diretor": "Sam Raimi",
+            "classificacao": "Livre",
+            "duracao": 127,
+            "capa": "https://br.web.img2.acsta.net/pictures/210/544/21054460_2013103118041242.jpg"
+        },
+        {
+            "id": 45,
+            "titulo": "Homem-Aranha 2",
+            "ano": 2007,
+            "genero": "Ação",
+            "diretor": "Sam Raimi",
+            "classificacao": "12 Anos",
+            "duracao": 139,
+            "capa": "https://www.sonypictures.com.br/sites/brazil/files/2022-03/KEY%20ART_HOMEM%20ARANHA%203.JPG"
+        },
+        {
+            "id": 46,
+            "titulo": "Homem-Aranha: Longe de Casa",
+            "ano": 2019,
+            "genero": "Ação",
+            "diretor": "Sam Raimi",
+            "classificacao": "10 Anos",
+            "duracao": 130,
+            "capa": "https://br.web.img2.acsta.net/pictures/19/07/05/17/30/5167951.jpg"
+        },
+        {
+            "id": 47,
+            "titulo": "Deadpool",
+            "ano": 2016,
+            "genero": "Ação",
+            "diretor": "Tim Miller",
+            "classificacao": "16 Anos",
+            "duracao": 130,
+            "capa": "https://media.fstatic.com/9dkY59i5vkBoVLl8QK0axC6xJIA=/322x478/smart/filters:format(webp)/media/movies/covers/2015/08/deadpool_t14204.jpg"
+        },
+        {
+            "id": 48,
+            "titulo": "Deadpool",
+            "ano": 2018,
+            "genero": "Ação",
+            "diretor": "David Leitch",
+            "classificacao": "16 Anos",
+            "duracao": 120,
+            "capa": "https://br.web.img2.acsta.net/pictures/18/04/19/15/31/2232385.jpg"
+        },
+        {
+            "id": 49,
+            "titulo": "Deadpool & Wolverine",
+            "ano": 2024,
+            "genero": "Ação",
+            "diretor": "Shawn Levy",
+            "classificacao": "18 Anos",
+            "duracao": 120,
+            "capa": "https://images.justwatch.com/poster/314489929/s718/deadpool-3.jpg"
+        },
+        {
+            "id": 50,
+            "titulo": "Homem-Formiga",
+            "ano": 2015,
+            "genero": "Ação",
+            "diretor": "Peyton Reed",
+            "classificacao": "12 Anos",
+            "duracao": 118,
+            "capa": "https://d3alv7ekdacjys.cloudfront.net/Custom/Content/Products/11/00/1100231_homem-formiga-filme-acao-ms_m1_637383497240225535.jpg"
+        },
+        {
+            "id": 51,
+            "titulo": "Moana",
+            "ano": 2016,
+            "genero": "Animação",
+            "diretor": "Ron Clements, John Musker",
+            "classificacao": "Livre",
+            "duracao": 107,
+            "capa": "https://www.papodecinema.com.br/wp-content/uploads/2016/12/20200306-poster.jpg"
+        },
+        {
+            "id": 52,
+            "titulo": "Procurando Dory",
+            "ano": 2016,
+            "genero": "Animação",
+            "diretor": "Andrew Stanton, Angus MacLane",
+            "classificacao": "Livre",
+            "duracao": 97,
+            "capa": "https://saopauloparacriancas.com.br/wp-content/uploads/2016/06/PROCURANDO-DORY.jpg"
+        },
+        {
+            "id": 53,
+            "titulo": "Zootopia",
+            "ano": 2016,
+            "genero": "Animação",
+            "diretor": "Byron Howard, Rich Moore",
+            "classificacao": "Livre",
+            "duracao": 108,
+            "capa": "https://www.clickriomafra.com.br/cineseminario/wp-content/uploads/2017/02/Zootopia-Essa-Cidade-%C3%A9-o-Bicho.jpg"
+        },
+        {
+            "id": 54,
+            "titulo": "Ratatouille",
+            "ano": 2007,
+            "genero": "Animação",
+            "diretor": "Brad Bird, Jan Pinkava",
+            "classificacao": "Livre",
+            "duracao": 111,
+            "capa": "https://lumiere-a.akamaihd.net/v1/images/p_ratatouille_19736_0814231f.jpeg"
+        },
+        {
+            "id": 55,
+            "titulo": "Os Incríveis 2",
+            "ano": 2018,
+            "genero": "Animação",
+            "diretor": "Brad Bird",
+            "classificacao": "Livre",
+            "duracao": 118,
+            "capa": "https://br.web.img3.acsta.net/pictures/18/04/12/20/25/5720930.jpg"
+        },
+        {
+            "id": 56,
+            "titulo": "Up: Altas Aventuras",
+            "ano": 2009,
+            "genero": "Animação",
+            "diretor": "Pete Docter, Bob Peterson",
+            "classificacao": "Livre",
+            "duracao": 96,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/92/03/73/20176438.jpg"
+        },
+        {
+            "id": 57,
+            "titulo": "Viva: A Vida é uma Festa",
+            "ano": 2017,
+            "genero": "Animação",
+            "diretor": "Lee Unkrich, Adrian Molina",
+            "classificacao": "Livre",
+            "duracao": 105,
+            "capa": "https://br.web.img3.acsta.net/pictures/17/12/07/11/33/0502209.jpg"
+        },
+        {
+            "id": 58,
+            "titulo": "A Bela e a Fera",
+            "ano": 2017,
+            "genero": "Fantasia",
+            "diretor": "Bill Condon",
+            "classificacao": "Livre",
+            "duracao": 129,
+            "capa": "https://www.infoescola.com/wp-content/uploads/2010/10/bela-e-a-fera.jpg"
+        },
+        {
+            "id": 59,
+            "titulo": "Malévola",
+            "ano": 2014,
+            "genero": "Fantasia",
+            "diretor": "Robert Stromberg",
+            "classificacao": "Livre",
+            "duracao": 97,
+            "capa": "https://ingresso-a.akamaihd.net/b2b/production/uploads/movie/poster/216/Design_sem_nome.jpg"
+        },
+        {
+            "id": 60,
+            "titulo": "Detona Ralph",
+            "ano": 2012,
+            "genero": "Animação",
+            "diretor": "Rich Moore",
+            "classificacao": "Livre",
+            "duracao": 101,
+            "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/90/16/14/20220606.jpg"
+        },
+        {
+            "id": 61,
+            "titulo": "Enrolados",
+            "ano": 2010,
+            "genero": "Animação",
+            "diretor": "Nathan Greno, Byron Howard",
+            "classificacao": "Livre",
+            "duracao": 100,
+            "capa": "https://recreio.uol.com.br/amp-stories/5-curiosidades-sobre-enrolados/assets/2.jpeg"
+        },
+        {
+            "id": 62,
+            "titulo": "Valente",
+            "ano": 2012,
+            "genero": "Animação",
+            "diretor": "Mark Andrews, Brenda Chapman, Steve Purcell",
+            "classificacao": "Livre",
+            "duracao": 93,
+            "capa": "https://cinemacomrapadura.com.br/imagens/2012/07/valente-poster1-615x869.jpg"
+        },
+        {
+            "id": 63,
+            "titulo": "Os Croods",
+            "ano": 2013,
+            "genero": "Animação",
+            "diretor": "Kirk DeMicco, Chris Sanders",
+            "classificacao": "Livre",
+            "duracao": 98,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/90/90/53/20498802.jpg"
+        },
+        {
+            "id": 64,
+            "titulo": "Sing: Quem Canta Seus Males Espanta",
+            "ano": 2016,
+            "genero": "Animação",
+            "diretor": "Garth Jennings",
+            "classificacao": "Livre",
+            "duracao": 108,
+            "capa": "https://m.media-amazon.com/images/S/pv-target-images/54fcb6e3ca207573c673f9ac550dc265caeb637dcc7218895bffded007692102.jpg"
+        },
+        {
+            "id": 65,
+            "titulo": "O Rei Leão",
+            "ano": 1994,
+            "genero": "Animação",
+            "diretor": "Roger Allers, Rob Minkoff",
+            "classificacao": "Livre",
+            "duracao": 88,
+            "capa": "https://a-memoria-da-dublagem.weebly.com/uploads/1/1/6/3/116355283/poster-o-rei-le-o-1994_orig.jpg"
+        },
+        {
+            "id": 66,
+            "titulo": "Mulan",
+            "ano": 1998,
+            "genero": "Animação",
+            "diretor": "Tony Bancroft, Barry Cook",
+            "classificacao": "Livre",
+            "duracao": 88,
+            "capa": "https://m.media-amazon.com/images/I/81etxQuCMnL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 67,
+            "titulo": "A Pequena Sereia",
+            "ano": 1989,
+            "genero": "Animação",
+            "diretor": "Ron Clements, John Musker",
+            "classificacao": "Livre",
+            "duracao": 83,
+            "capa": "https://www.papodecinema.com.br/wp-content/uploads/2023/05/20230524-a-pequena-sereia-papo-de-cinema-cartaz.jpeg"
+        },
+        {
+            "id": 68,
+            "titulo": "Alice no País das Maravilhas",
+            "ano": 1951,
+            "genero": "Animação",
+            "diretor": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+            "classificacao": "Livre",
+            "duracao": 75,
+            "capa": "https://br.web.img2.acsta.net/pictures/14/02/27/19/01/345052.jpg"
+        },
+        {
+            "id": 69,
+            "titulo": "Frozen - Uma Aventura Congelante",
+            "ano": 2013,
+            "genero": "Animação",
+            "diretor": "Jennifer Lee, Chris Buck",
+            "classificacao": "Livre",
+            "duracao": 102,
+            "capa": "https://br.web.img2.acsta.net/pictures/210/461/21046189_20131002174340886.jpg"
+        },
+        {
+            "id": 70,
+            "titulo": "Frozen 2",
+            "ano": 2019,
+            "genero": "Animação",
+            "diretor": "Jennifer Lee, Chris Buck",
+            "classificacao": "Livre",
+            "duracao": 104,
+            "capa": "https://br.web.img3.acsta.net/pictures/19/10/14/15/18/1691494.jpg"
+        },
+        {
+            "id": 71,
+            "titulo": "The Godfather",
+            "ano": 1972,
+            "genero": "Crime, Drama",
+            "diretor": "Francis Ford Coppola",
+            "classificacao": "18 anos",
+            "duracao": 175,
+            "capa": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        },
+        {
+            "id": 72,
+            "titulo": "Batman - O Cavaleiro das Trevas",
+            "ano": 2008,
+            "genero": "Action, Crime, Drama",
+            "diretor": "Christopher Nolan",
+            "classificacao": "14 anos",
+            "duracao": 152,
+            "capa": "https://m.media-amazon.com/images/S/pv-target-images/ae8dddd0abc2fac14052f29bc2ae15ddd86374c0d3bd017171ee6473b8933b29.jpg"
+        },
+        {
+            "id": 73,
+            "titulo": "Inception",
+            "ano": 2010,
+            "genero": "Action, Adventure, Sci-Fi",
+            "diretor": "Christopher Nolan",
+            "classificacao": "12 anos",
+            "duracao": 148,
+            "capa": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+        },
+        {
+            "id": 74,
+            "titulo": "The Shawshank Redemption",
+            "ano": 1994,
+            "genero": "Drama",
+            "diretor": "Frank Darabont",
+            "classificacao": "14 anos",
+            "duracao": 142,
+            "capa": "https://m.media-amazon.com/images/I/5104HNGW6NL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 75,
+            "titulo": "Pulp Fiction",
+            "ano": 1994,
+            "genero": "Crime, Drama",
+            "diretor": "Quentin Tarantino",
+            "classificacao": "18 anos",
+            "duracao": 154,
+            "capa": "https://m.media-amazon.com/images/I/81UTs3sC5hL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 76,
+            "titulo": "Forrest Gump",
+            "ano": 1994,
+            "genero": "Drama, Romance",
+            "diretor": "Robert Zemeckis",
+            "classificacao": "12 anos",
+            "duracao": 142,
+            "capa": "https://m.media-amazon.com/images/S/pv-target-images/ee36e1b2c68685dc3d3c5815800e8628ba09223fb196acb83baaa885dea3c39c.jpg"
+        },
+        {
+            "id": 77,
+            "titulo": "Matrix",
+            "ano": 1999,
+            "genero": "Action, Sci-Fi",
+            "diretor": "Lana Wachowski, Lilly Wachowski",
+            "classificacao": "14 anos",
+            "duracao": 136,
+            "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/91/08/82/20128877.JPG"
+        },
+        {
+            "id": 78,
+            "titulo": "Clube da luta",
+            "ano": 1999,
+            "genero": "Drama",
+            "diretor": "David Fincher",
+            "classificacao": "18 anos",
+            "duracao": 139,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/90/95/96/20122166.jpg"
+        },
+        {
+            "id": 79,
+            "titulo": "The Lord of the Rings: The Return of the King",
+            "ano": 2003,
+            "genero": "Adventure, Drama, Fantasy",
+            "diretor": "Peter Jackson",
+            "classificacao": "12 anos",
+            "duracao": 201,
+            "capa": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        },
+        {
+            "id": 80,
+            "titulo": "Titanic",
+            "ano": 1997,
+            "genero": "Drama, Romance",
+            "diretor": "James Cameron",
+            "classificacao": "12 anos",
+            "duracao": 195,
+            "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/89/56/94/20055685.jpg"
+        },
+        {
+            "id": 81,
+            "titulo": "O Rei Leão - Live Action",
+            "ano": 2019,
+            "genero": "Animation, Adventure, Drama",
+            "diretor": "Roger Allers, Rob Minkoff",
+            "classificacao": "Livre",
+            "duracao": 100,
+            "capa": "https://lumiere-a.akamaihd.net/v1/images/lion_king_the_2019_la_ih_ptb_1000_x_1440_2baad78d.jpeg?region=0%2C0%2C1000%2C1440"
+        },
+        {
+            "id": 82,
+            "titulo": "Gladiator",
+            "ano": 2000,
+            "genero": "Action, Adventure, Drama",
+            "diretor": "Ridley Scott",
+            "classificacao": "14 anos",
+            "duracao": 155,
+            "capa": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+        },
+        {
+            "id": 83,
+            "titulo": "Jurassic Park",
+            "ano": 1993,
+            "genero": "Action, Adventure, Sci-Fi",
+            "diretor": "Steven Spielberg",
+            "classificacao": "Livre",
+            "duracao": 127,
+            "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/91/05/56/20369174.jpg"
+        },
+        {
+            "id": 84,
+            "titulo": "Vingadores",
+            "ano": 2012,
+            "genero": "Action, Adventure, Sci-Fi",
+            "diretor": "Joss Whedon",
+            "classificacao": "12 anos",
+            "duracao": 143,
+            "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/89/43/82/20052140.jpg"
+        },
+        {
+            "id": 85,
+            "titulo": "Avatar",
+            "ano": 2009,
+            "genero": "Action, Adventure, Fantasy",
+            "diretor": "James Cameron",
+            "classificacao": "12 anos",
+            "duracao": 162,
+            "capa": "https://cdn.fstatic.com/media/movies/covers/2011/06/540cd1294ec23fd5fb74b2a83423536d_5.jpg"
+        },
+        {
+            "id": 86,
+            "titulo": "Interstellar",
+            "ano": 2014,
+            "genero": "Adventure, Drama, Sci-Fi",
+            "diretor": "Christopher Nolan",
+            "classificacao": "10 anos",
+            "duracao": 169,
+            "capa": "https://cdn.ome.lt/legacy/images/galerias/Interstellar/Interstellar-poster-11ago2014-01.jpg"
+        },
+        {
+            "id": 87,
+            "titulo": "The Silence of the Lambs",
+            "ano": 1991,
+            "genero": "Crime, Drama, Thriller",
+            "diretor": "Jonathan Demme",
+            "classificacao": "18 anos",
+            "duracao": 118,
+            "capa": "https://m.media-amazon.com/images/I/51SHYSFNP2L._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 88,
+            "titulo": "Saving Private Ryan",
+            "ano": 1998,
+            "genero": "Drama, War",
+            "diretor": "Steven Spielberg",
+            "classificacao": "16 anos",
+            "duracao": 169,
+            "capa": "https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg"
+        },
+        {
+            "id": 89,
+            "titulo": "Schindler's List",
+            "ano": 1993,
+            "genero": "Biography, Drama, History",
+            "diretor": "Steven Spielberg",
+            "classificacao": "14 anos",
+            "duracao": 195,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/1/1d/SchindlerPoster.jpg"
+        },
+        {
+            "id": 90,
+            "titulo": "Chernobyl",
+            "ano": 2019,
+            "genero": "Biography, History",
+            "diretor": "Steven Spielberg",
+            "classificacao": "14 anos",
+            "duracao": 140,
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/9/92/PosterChernobyl.jpg"
+        }
+    ]
+}

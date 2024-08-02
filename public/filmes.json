@@ -1,0 +1,54 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Divertidamente 2",
+      "ano": 2024,
+      "genero": "Infatil",
+      "diretor": "Pete Docter",
+      "classificacao": "Livre",
+      "duracao": 96,
+      "capa": "https://ingresso-a.akamaihd.net/prd/img/movie/divertida-mente-2/61ac248d-e3e6-4e33-9515-8ce0621a32fa.webp"
+    },
+    {
+      "id": 2,
+      "titulo": "Meu Malvado Favorito 4",
+      "ano": 2024,
+      "genero": "Infatil",
+      "diretor": "Chris Renaud",
+      "classificacao": "Livre",
+      "duracao": 94,
+      "capa": "https://www.universalpics.com.br/tl_files/content/movies/despicable_me_4/posters/02.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Um Lugar Silencioso - Dia Um",
+      "ano": 2024,
+      "genero": "Terror",
+      "diretor": "Michael Sarnoski",
+      "classificacao": "12 Anos",
+      "duracao": 99,
+      "capa": "https://br.web.img3.acsta.net/img/3d/a5/3da55e2824a79a6b3ba13b44c551d3b3.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Maxxxine",
+      "ano": 2024,
+      "genero": "Suspense",
+      "diretor": "Ti West",
+      "classificacao": "18 Anos",
+      "duracao": 104,
+      "capa": "https://br.web.img2.acsta.net/img/20/b3/20b38bb5e6d4847f99bc86fb742fed25.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "To de graça - O filme",
+      "ano": 2024,
+      "genero": "Comedia",
+      "diretor": "César Rodrigues",
+      "classificacao": "12 Anos",
+      "duracao": 95,
+      "capa": "https://d1mcpktd27z5n0.cloudfront.net/cdn/wbproducoes/site/2019/06/25133009/CARTAZ-RGB-TO-DE-GRA%C3%87A.jpg"
+    }
+  ]
+}
