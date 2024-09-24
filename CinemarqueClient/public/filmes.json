@@ -1,0 +1,54 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Divertidamente 2",
+      "ano": 2024,
+      "genero": "Infatil",
+      "diretor": "Pete Docter",
+      "classificacao": "Livre",
+      "duracao": 96,
+      "capa": "https://ingresso-a.akamaihd.net/prd/img/movie/divertida-mente-2/61ac248d-e3e6-4e33-9515-8ce0621a32fa.webp"
+    },
+    {
+      "id": 2,
+      "titulo": "Meu Malvado Favorito 4",
+      "ano": 2024,
+      "genero": "Infatil",
+      "diretor": "Chris Renaud",
+      "classificacao": "Livre",
+      "duracao": 94,
+      "capa": "https://www.universalpics.com.br/tl_files/content/movies/despicable_me_4/posters/02.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Deadpool & Wolverine",
+      "ano": 2024,
+      "genero": "Ação, Aventura, Comédia",
+      "diretor": "Shawn Levy",
+      "classificacao": "18 Anos",
+      "duracao": 127,
+      "capa": "https://s2-g1.glbimg.com/k6J0DsMl3_w3evhEsSfoP4348Tg=/0x0:1080x1350/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/4/m/NsJJlvTLCRvEs8KBowrw/deadpool-e-wolverine-cartaz.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "O Exorcismo",
+      "ano": 2024,
+      "genero": "Suspense, Terror",
+      "diretor": "Joshua John Miller, M.A. Fortin",
+      "classificacao": "16 Anos",
+      "duracao": 100,
+      "capa": "https://br.web.img2.acsta.net/img/c6/35/c635354aaf4bb321cfc21c494e52aeea.PNG"
+    },
+    {
+      "id": 5,
+      "titulo": "To de graça - O filme",
+      "ano": 2024,
+      "genero": "Comedia",
+      "diretor": "César Rodrigues",
+      "classificacao": "12 Anos",
+      "duracao": 95,
+      "capa": "https://d1mcpktd27z5n0.cloudfront.net/cdn/wbproducoes/site/2019/06/25133009/CARTAZ-RGB-TO-DE-GRA%C3%87A.jpg"
+    }
+  ]
+}
